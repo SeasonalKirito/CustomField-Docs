@@ -1,16 +1,16 @@
 ---
 title: Introduction
-description: The official Rayfield UI Suite documentation
+description: The official Customfield UI Suite documentation
 layout: ../../layouts/MainLayout.astro
 ---
 
 [![image](https://user-images.githubusercontent.com/77512805/209696209-dc87560f-8e55-407e-a5df-31ec31381c51.png)](https://discord.gg/sirius)
 
-This is the written documentation for Rayfield Interface Suite.
+This is the written documentation for Customfield Interface Suite.
 
-Last updated for the Beta 7R release
+Last updated for the UNKNOWN release
 
-## Why choose Rayfield?
+## Why choose Customfield?
 
 - ⚖️ **Reliable and Stable**
 - 🆕 **Frequently Updated**
